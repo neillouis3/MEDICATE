@@ -3,19 +3,19 @@
 CTRL is a Java application designed to simplify the management and control of your Internet of Things (IoT) devices. With CTRL, users can seamlessly connect their IoT devices to the application and gain full control over their functionality.
 
 ## Features
-1. Easy IoT Device Connection
+### 1. Easy IoT Device Connection
 CTRL makes it simple for users to connect their Java-compatible IoT devices to the application. Whether it's smart home devices, wearables, or industrial sensors, CTRL supports a wide range of Java-enabled IoT devices, providing a unified platform for users to manage them.
 
-2. Intuitive Device Control
+### 2. Intuitive Device Control
 Take charge of your IoT devices effortlessly with CTRL. Users can control and manage their devices seamlessly, from turning devices on and off to adjusting settings, all within a central hub.
 
-3. Centralized Device Management
+### 3. Centralized Device Management
 CTRL acts as a centralized hub for all your connected IoT devices, leveraging the power of Java. Easily organize and categorize your devices, making it convenient to access and manage them from a single Java application. Say goodbye to the hassle of navigating multiple apps for different devices.
 
-4. Real-time Monitoring
+### 4. Real-time Monitoring
 Stay informed about the status of your IoT devices in real-time using Java. CTRL provides detailed insights and monitoring capabilities, giving users the ability to track device performance, energy usage, and other relevant metrics, all within the Java ecosystem.
 
-5. Secure Connectivity
+### 5. Secure Connectivity
 Security is a top priority with CTRL. The application ensures secure connectivity between the user and their IoT devices, protecting sensitive data and maintaining privacy. Feel confident knowing that your devices are under reliable and secure management.
 
 ## Getting Started
