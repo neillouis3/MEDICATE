@@ -1,4 +1,7 @@
-# CTRL 
+# CTRL
+
+![Application Design](login.png)
+
 ## Overview
 CTRL is a Java application designed to simplify the management and control of your Internet of Things (IoT) devices. With CTRL, users can seamlessly connect their IoT devices to the application and gain full control over their functionality.
 
